@@ -1,0 +1,7 @@
+# Ignorar archivos temporales y de entorno local
+*.log
+*.tmp
+*.csv
+*.bak
+.DS_Store
+.env
